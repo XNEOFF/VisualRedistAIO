@@ -1,2 +1,2 @@
 # **Visual Cpp Redist AIO**
-**This file download all microsoft redistributable**
+**This file downloads all microsoft redistributable**
